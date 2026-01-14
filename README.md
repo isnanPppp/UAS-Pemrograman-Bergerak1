@@ -1,9 +1,9 @@
 # UAS-Pemrograman-Bergerak1
 Proyek Mobile Programming - Aplikasi Smart Finance Tracker
-# ![alt text](https://github.com/isnanPppp/UTS-PEMROGRAMAN-BERGERAK/blob/main/pic3.png.png?raw=true)
-# ![alt text](https://github.com/isnanPppp/UTS-PEMROGRAMAN-BERGERAK/blob/main/pic2.png.png?raw=true)
-# ![alt text](https://github.com/isnanPppp/UAS-Pemrograman-Bergerak1/blob/main/pic1.png.png?raw=true)
 
+# ![Contoh Gambar](https://github.com/isnanPppp/UTS-PEMROGRAMAN-BERGERAK/blob/main/pic3.png)
+# ![Contoh Gambar](https://github.com/isnanPppp/UTS-PEMROGRAMAN-BERGERAK/blob/main/pic2.png)
+# ![Contoh Gambar](https://github.com/isnanPppp/UTS-PEMROGRAMAN-BERGERAK/blob/main/pic1.png)
 # codingan project
 import React, { useState, useEffect } from 'react';
 import { Wallet, TrendingUp, TrendingDown, PieChart, Plus, Calendar, DollarSign, CreditCard, ShoppingBag, Coffee, Home, Car, BarChart3, Sparkles, Menu, Bell, Search } from 'lucide-react';
